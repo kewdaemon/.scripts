@@ -1,3 +1,3 @@
 
-date -u +"%a %d-%m-%Y"
+date +"%a %d-%m-%Y"
 

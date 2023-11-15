@@ -1,1 +1,1 @@
-date -u +"%H:%M:%S"
+date +"%H:%M:%S"
